@@ -22,7 +22,7 @@ For a detailed introduction, full list of features and architecture
 overview please visit the official project page:
 <http://owasp-juice.shop>
 
-## Setup
+## Setup temp1
 
 ### Deploy on Heroku (free ($0/month) dyno)
 
